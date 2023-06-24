@@ -1,4 +1,4 @@
-# Capicited Vehicle Routing Problem variant
+# Capacited Vehicle Routing Problem variant
 
 In this problem formulation, the demand of certain customers may exceed the capacity of a single vehicle.
 We solved using three different approaches.
