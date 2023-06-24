@@ -1,6 +1,7 @@
-# Vehicle Routing Problem 
+# Capicited Vehicle Routing Problem variant
 
-This repository contains a solver for the Vehicle Routing Problem (VRP) implemented using three different approaches.
+In this problem formulation, the demand of certain customers may exceed the capacity of a single vehicle.
+We solved using three different approaches.
 
 ## Approach 1: PuLP with CBC Solver
 
