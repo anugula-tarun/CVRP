@@ -1,9 +1,9 @@
 
-# Capacitated Vehicle Routing Problem Solver
+# Capacitated Vehicle Routing Problem 
 
 This repository contains a solution for the Capacitated Vehicle Routing Problem (CVRP) implemented using two different approaches.
 
-## Approach 1: Warm Start with OR-Tools and Pulp
+## Approach 1: Warm Start with OR-Tools and solving Pulp model
 
 In this approach, the CVRP is solved by leveraging the OR-Tools solution as a warm start for the Pulp model. This combination of powerful optimization tools allows for efficient and effective solution generation.
 
